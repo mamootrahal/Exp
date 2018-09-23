@@ -1,0 +1,20 @@
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\bin\Release\Exp.exe.config
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\bin\Release\Exp.exe
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\bin\Release\Exp.pdb
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.Form1.resources
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.Properties.Resources.resources
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.csproj.GenerateResource.cache
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.csproj.CoreCompileInputs.cache
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.exe
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.pdb
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.csprojResolveAssemblyReference.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\bin\Release\Exp.exe.config
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\bin\Release\Exp.exe
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\bin\Release\Exp.pdb
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.csprojResolveAssemblyReference.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.Form1.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.Properties.Resources.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.csproj.GenerateResource.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.csproj.CoreCompileInputs.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.exe
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Exp\Exp\obj\Release\Exp.pdb
